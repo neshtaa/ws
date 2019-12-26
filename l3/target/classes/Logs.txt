@@ -1,0 +1,38 @@
+0 common 1 travels left  
+1 pupil 4 travels left  
+1 pupil 3 travels left  
+0 common 1 travels left  
+0 common 1 travels left  
+1 pupil 2 travels left  
+1 pupil 1 travels left  
+1 pupil 0 travels left  
+0 common 1 travels left  
+1 pupil Out of travels  
+1 pupil Out of travels
+1 pupil Out of travels  
+0 common 1 travels left  
+1 pupil Out of travels  
+2 common 10 travels left  
+0 common Out of travels  
+0 common Out of travels  
+Reading error!  
+Reading error!  
+Reading error!  
+Reading error!  
+2 common 9 travels left  
+2 common 9 travels left  
+1 pupil Out of travels  
+2 common 9 travels left  
+Reading error!  
+0 common Out of travels  
+Reading error!  
+3 student 3 travels left  
+3 student 2 travels left  
+3 student 3 travels left  
+3 student 2 travels left  
+3 student 1 travels left  
+3 student 0 travels left  
+3 student Out of travels  
+Reading error!  
+0 common Out of travels  
+0 student Out of travels  

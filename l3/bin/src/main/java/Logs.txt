@@ -1,0 +1,15 @@
+0 common 1 travels left  
+1 pupil 4 travels left  
+1 pupil 3 travels left  
+0 common 1 travels left  
+0 common 1 travels left  
+1 pupil 2 travels left  
+1 pupil 1 travels left  
+1 pupil 0 travels left  
+0 common 1 travels left  
+1 pupil Out of travels  
+1 pupil Out of travels
+1 pupil Out of travels  
+0 common 1 travels left  
+1 pupil Out of travels  
+2 common 10 travels left  

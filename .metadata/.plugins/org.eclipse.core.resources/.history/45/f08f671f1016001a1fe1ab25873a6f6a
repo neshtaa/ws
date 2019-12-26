@@ -1,0 +1,13 @@
+import org.junit.Assert;
+import org.junit.jupiter.api.Test;
+import nl.jqno.equalsverifier.*;
+
+class EqualsVerifier {
+
+  @Test
+  void test() {
+    EqualsVerifier.forClass(Person.class).verify();
+        
+  }
+
+}

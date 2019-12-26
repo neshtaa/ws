@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+E:\Новая папка (3)\ws\.metadata\.plugins\org.eclipse.jdt.core
+2317249990.index
+354842938.index
+3531492694.index
+2194003517.index
+977519268.index
+405123940.index
+4082014329.index
+2027637736.index
+40970839.index
+1055617440.index
+667508924.index
+2327398712.index
+1300353683.index
+2604245726.index
+2223842074.index
+345616284.index
+159913133.index
+38810973.index
+2046687169.index
+2608364525.index

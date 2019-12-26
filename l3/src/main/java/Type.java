@@ -1,0 +1,1 @@
+public enum Type{common, pupil, student};
